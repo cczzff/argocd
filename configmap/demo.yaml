@@ -4,4 +4,4 @@ metadata:
   name: my-configmap
 data:
   my-key: my-value3
-  another-key: another-value3
+  another-key: another-value356
